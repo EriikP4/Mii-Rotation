@@ -6,14 +6,15 @@ The script cannot read the QR code of your Mii automatically (at least for now) 
 
 **Steps to follow:**
 
-1. Go to [Mii Renderer](https://pf2m.com/tools/mii/) (by PF2M).
-2. Render your Mii, with any of the possible ways (I recommend `QR`).
-3. Choose the output size of the image (I recommend `140px`).
-4. Right click on the image of your Mii, and click `Copy the image link`.
-5. Execute the Script
-6. Enter the name of your Mii and then the respective URL.
-7. Wait for the download to finish
+ 1. Go to [Mii Renderer](https://pf2m.com/tools/mii/) (by PF2M).
+ 2. Render your Mii, with any of the possible ways (I recommend `QR`).
+ 3. Choose the output size of the image (I recommend `140px`).
+ 4. Right click on the image of your Mii, and click `Copy the image link`.
+ 5. Execute the Script
+ 6. Enter the name of your Mii and then the respective URL.
+ 7. Wait for the download to finish
 
+ - You can make a GIF [here](https://ezgif.com/maker)
 
 ## ¿Cómo funciona? [ES]
 El script no puede leer el código QR de tu Mii automáticamente (al menos por ahora) así que debes obtener la URL del renderizado tu mismo.
@@ -27,3 +28,5 @@ El script no puede leer el código QR de tu Mii automáticamente (al menos por a
 5. Ejecuta el Script
 6. Introduce el nombre de tu Mii y después la respectiva URL
 7. Espera a que termine la descarga
+
+ - Puedes hacer un GIF [aquí](https://ezgif.com/maker)
